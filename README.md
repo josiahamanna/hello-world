@@ -1,3 +1,3 @@
 # hello-world
-First repository 
-first branch edited
+
+hey it's Josiah and i am jobless :p
