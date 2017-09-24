@@ -1,2 +1,3 @@
 # hello-world
-First repository 
+
+hey it's Josiah and i am jobless :p
